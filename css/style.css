@@ -10,3 +10,9 @@
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.ul_main {
+    list-style-type: none;
+}
+.li_main {
+    color: red;
+}
